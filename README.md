@@ -99,5 +99,5 @@ HISTOGRAM PLOT
 
 ![](./11.png)
 
-Result
+# Result
 Thus we have read the given data and performed the univariate analysis with different types of plots.
