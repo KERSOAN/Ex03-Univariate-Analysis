@@ -53,40 +53,50 @@ sns.countplot(x='Postal Code',data=df)
 sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df)
 ```
-
 # Output
 
 DATA
+
 ![](./1.png)
  
 DATA HEAD
+
 ![](./2.png)
 
 DATA INFORMATION
+
 ![](./3.png)
 
 DATA DESCRIBE
+
 ![](./4.png)
 
 DATA NULL VALUES
+
 ![](./5.png)
 
 DATA'S DATATYPES
+
 ![](./6.png)
 
 DATA'S VALUECOUNT
+
 ![](./7.png)
 
 BOXPLOT
+
 ![](./8.png)
 
 COUNTPLOT
+
 ![](./9.png)
 
 DISTRIBUTION PLOT
+
 ![](./10.png)
 
 HISTOGRAM PLOT
+
 ![](./11.png)
 
 # Result
